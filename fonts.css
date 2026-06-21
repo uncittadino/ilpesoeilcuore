@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Arial Corsivo";
+   src: url("fonts/Arial Corsivo.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Arial Hebrew Bold";
+   src: url("fonts/Arial Hebrew Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
